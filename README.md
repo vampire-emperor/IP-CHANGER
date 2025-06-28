@@ -101,7 +101,7 @@ Make sure to **Subscribe** and **Support** the creator if this tool helps you! ð
 
 ### Termux Full Install and Setup 
 ```
-pkg update && pkg upgrade && pkg install git && git clone https://github.com/thakur2309/Camhack.git && cd Camhack && chmod +X start.sh && bash start.sh
+pkg update && pkg upgrade && pkg install tur-repo && pkg install git tor privoxy netcat-openbsd curl && git clone https://github.com/thakur2309/IP-HOPPRR-.git && cd IP-HOPPRR- && bash setup.sh && bash iphopper.sh
 ```
 
 ### [TERMUX] Packege Install Comments
@@ -110,24 +110,24 @@ pkg update && pkg upgrade && pkg install git && git clone https://github.com/tha
 pkg update && pkg upgrade -y
 ```
 ```
-pkg install php
+pkg install tur-repo -y
 ```
 ```
-pkg install git
+pkg install git tor privoxy netcat-openbsd curl -y
 ```
 ```
-git clone https://github.com/thakur2309/Camhack.git
+git clone https://github.com/thakur2309/IP-HOPPRR-.git
 ```
 ```
-cd Camhack
+cd IP-HOPPRR-
 ```
 ```
-chmod +x start.sh
+bash setup.sh
 ```
-
+```
 ### Start tool command
 ```
-bash start.sh
+bash iphopper.sh
 ```
 
 
