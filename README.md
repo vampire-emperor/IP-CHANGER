@@ -101,13 +101,13 @@ Make sure to **Subscribe** and **Support** the creator if this tool helps you! ð
 
 ### Termux Full Install and Setup 
 ```
-pkg update && pkg upgrade && pkg install tur-repo && pkg install git tor privoxy netcat-openbsd curl && git clone https://github.com/thakur2309/IP-HOPPRR-.git && cd IP-HOPPRR- && bash setup.sh && bash iphopper.sh
+apt update && apt upgrade && apt install tur-repo && apt install git tor privoxy netcat-openbsd curl && git clone https://github.com/thakur2309/IP-HOPPRR-.git && cd IP-HOPPRR- && bash setup.sh && bash iphopper.sh
 ```
 
 ### [TERMUX] Packege Install Comments
 
 ```
-apt update && pkg upgrade -y
+apt update && apt upgrade -y
 ```
 ```
 apt install tur-repo -y
