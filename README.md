@@ -107,13 +107,13 @@ pkg update && pkg upgrade && pkg install tur-repo && pkg install git tor privoxy
 ### [TERMUX] Packege Install Comments
 
 ```
-pkg update && pkg upgrade -y
+apt update && pkg upgrade -y
 ```
 ```
-pkg install tur-repo -y
+apt install tur-repo -y
 ```
 ```
-pkg install git tor privoxy netcat-openbsd curl -y
+apt install git tor privoxy netcat-openbsd curl -y
 ```
 ```
 git clone https://github.com/thakur2309/IP-HOPPRR-.git
