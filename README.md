@@ -105,5 +105,6 @@ bash setup.sh
 ```
 ### Start tool command
 ```
-bash iphopper.sh
+bash method 1.sh
+or bash method 2.sh
 ```
