@@ -34,15 +34,6 @@ All packaged in a simple tool with beginner-friendly configuration and advanced 
 
 ---
 
-## 📺 YouTube Channel
-
-This tool is developed and maintained by **Alok Thakur**, the creator of the YouTube channel:
-
-> 🔥 [Firewall Breaker](https://www.youtube.com/@FirewallBreaker09)
-
-On this channel, you'll find beginner-friendly tutorials, practical hacking labs, and deep explanations of tools like this one — all tailored for Indian learners and mobile users.
-
-Make sure to **Subscribe** and **Support** the creator if this tool helps you! 🙌
 
 ---
 
@@ -87,24 +78,12 @@ Make sure to **Subscribe** and **Support** the creator if this tool helps you! �
 
 ---
 
-## 🧑‍💻 Author Info
-
-- 👨‍💻 **Alok Thakur**
-- 🔗 [GitHub: @Thakur](https://github.com/thakur2309)
-- 📺 [YouTube: Firewall Breaker](https://www.youtube.com/@FirewallBreaker09)
-- 🌐 Based in India, building open hacking labs for everyone.
-
----
-![Instagram Image ](https://raw.githubusercontent.com/thakur2309/IP-HOPPRR-/refs/heads/main/Screenshot_2025_0628_081718.jpg)
 
 <h3 align="center"> Preview!</h3>
 
 ### Termux Full Install and Setup 
-```
-apt update && apt upgrade && apt install tur-repo && apt install git tor privoxy netcat-openbsd curl && git clone https://github.com/thakur2309/IP-HOPPRR-.git && cd IP-HOPPRR- && bash setup.sh && bash iphopper.sh
-```
+``
 
-### [TERMUX] Packege Install Comments
 
 ```
 apt update && apt upgrade -y
@@ -116,7 +95,7 @@ apt install tur-repo -y
 apt install git tor privoxy netcat-openbsd curl -y
 ```
 ```
-git clone https://github.com/thakur2309/IP-HOPPRR-.git
+git clone https://github.com/vampire-emperor/IP-CHANGER.git
 ```
 ```
 cd IP-HOPPRR-
@@ -128,21 +107,3 @@ bash setup.sh
 ```
 bash iphopper.sh
 ```
-
-
-## 📌 Contact Me  
-
-<a href="https://youtube.com/@firewallbreaker09">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-</a>  
-<br>  
-
-<a href="https://github.com/thakur2309?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>  
-<br>  
-
-<a href="https://whatsapp.com/channel/0029VbAiqVMKLaHjg5J1Nm2F">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel">
-</a>
-
